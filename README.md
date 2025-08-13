@@ -1,4 +1,4 @@
-# dotfiles - personal dotfiles for setup
+# dotfiles - personal dotfiles - COMING SOON
 
 *FEDORA WORKSTATION*
 
